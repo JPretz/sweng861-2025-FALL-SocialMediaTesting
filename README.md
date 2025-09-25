@@ -35,9 +35,7 @@ SocialMediaTesting/
 
 ### Backend (FastAPI + Pytest)
 1. Navigate to backend folder:
-   ```bash
-  cd backend
-
+   cd backend
 2. Create and activate a virtual environment:
    python -m venv venv
    venv\Scripts\activate
